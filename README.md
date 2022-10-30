@@ -8,3 +8,8 @@ Automated Detection of Tumor in MRI images is necessary as High Accuracy is need
 when dealing with human life. So we will focus on the accuracy using di erent machine
 learning techniques.To get the accuracy as much as high, we shall use di erent models and
 compare the accuracies & consider the best suited model for this purpose.
+# Data Sources:
+- For Classification Based On Presence
+[Br35H :: Brain Tumor Detection 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+- For Classification Based On Position
+[Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
