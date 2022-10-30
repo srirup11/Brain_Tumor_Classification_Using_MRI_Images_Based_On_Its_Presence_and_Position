@@ -17,4 +17,4 @@ compare the accuracies & consider the best suited model for this purpose.
 
 [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 # Data Preprocessing:
-In [this notebook]()  we will see how to preprocess the images.
+In [this notebook](https://github.com/srirup11/Brain_Tumor_Classification_Using_MRI_Images_Based_On_Its_Presence_and_Position/blob/main/Preprocessing.py)  we will see how to preprocess the images.
