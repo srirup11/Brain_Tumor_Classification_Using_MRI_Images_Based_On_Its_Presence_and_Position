@@ -16,3 +16,5 @@ compare the accuracies & consider the best suited model for this purpose.
 - ### For Classification Based On Position
 
 [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+# Data Preprocessing:
+In [this notebook]()  we will see how to preprocess the images.
